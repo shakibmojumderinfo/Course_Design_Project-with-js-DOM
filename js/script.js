@@ -86,8 +86,6 @@ function markMileStone(checkbox, id) {
     milestonesList.appendChild(item);
     doneList.removeChild(item);
 
-    // task - do the sorting
-    // reload list
   }
 }
 
